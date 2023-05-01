@@ -1,5 +1,5 @@
 # India-Census-2011-Dataset
-![logo](https://github.com/shashikant190/India-Census-2011-Dataset/blob/main/Dashboard.png)
+<img  alt="data_analyst"  src="https://github.com/shashikant190/India-Census-2011-Dataset/blob/main/Dashboard-Recording.gif">
 
 
 # Dashboard video here..
