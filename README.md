@@ -5,7 +5,7 @@
 <h3>
 * This is India Cesus data of year 2011.<br>
 * It consist of Total population, Literacy, Demography, Religions, Workers-state-wise, Education and age.<br>
-* We are using padas library to analyse it.
+* We are using padas library to analyze it.
 </h3>
 <h2>The following questions has been solved...</h2>
 <h3>
